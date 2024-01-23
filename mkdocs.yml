@@ -31,6 +31,7 @@ theme:
     - navigation.path
     - search.suggest
     - search.share
+    - navigation.footer
 
 nav:
   - Home: index.md
@@ -40,6 +41,18 @@ nav:
   - Blog:
     - blog/index.md
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 plugins:
   - search
   - blog
+  - glightbox
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://m.thebroom.us/@radio
+copyright: Copyright 2024 The Broom
