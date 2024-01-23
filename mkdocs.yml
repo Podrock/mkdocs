@@ -1,7 +1,7 @@
 site_name: The Broom Wiki
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/logo.jpg
   palette:
 
     # Palette toggle for automatic mode
