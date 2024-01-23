@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to The Broom's Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+You can visit out website at [thebroom.us](https://thebroom.us).
 
 ## Commands
 
