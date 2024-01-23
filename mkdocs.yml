@@ -3,7 +3,6 @@ theme:
   name: material
   logo: assets/logo.jpg
   palette:
-
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -23,3 +22,24 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - search.suggest
+    - search.share
+
+nav:
+  - Home: index.md
+  - Docs:
+    - Style guide: styleguide.md
+    - Safety Form: safety.md
+  - Blog:
+    - blog/index.md
+
+plugins:
+  - search
+  - blog
