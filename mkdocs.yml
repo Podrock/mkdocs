@@ -48,7 +48,7 @@ markdown_extensions:
 plugins:
   - search
   - blog
-  - glightbox
+#  - glightbox
 
 extra:
   generator: false
