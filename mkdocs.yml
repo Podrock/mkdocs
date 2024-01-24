@@ -49,8 +49,7 @@ plugins:
   - search
   - blog
   - glightbox
-  - social:
-    cards_layout: default
+  - social
 
 extra:
   generator: false
