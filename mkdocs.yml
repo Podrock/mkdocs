@@ -50,7 +50,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog
+  - blog:
+    blog_dir: blog
   - glightbox
   - social
 
