@@ -38,6 +38,9 @@ nav:
   - Docs:
     - Style guide: styleguide.md
     - Safety Form: safety.md
+    - Podcast: podcast.md
+    - Mastodon: mastodon.md
+  - HodaPage: hodapage.md    
   - Blog:
     - blog/index.md
 
@@ -56,4 +59,8 @@ extra:
   social:
     - icon: fontawesome/brands/mastodon 
       link: https://m.thebroom.us/@radio
+    - icon: fontawesome/brands/github
+      link: https://github.com/The-Broom-Radio
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/thebroomradio
 copyright: Copyright 2024 The Broom
