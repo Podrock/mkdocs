@@ -49,6 +49,7 @@ plugins:
   - search
   - blog
   - glightbox
+  - social
 
 extra:
   generator: false
